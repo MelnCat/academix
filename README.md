@@ -3,7 +3,7 @@
 ## Inspiration
 As students ourselves, we have first-hand experience with the horrors of Microsoft Teams and MyEducation. Unresponsive, slow and inaccessible, we thought that there must be a better solution.
 
-## What it does
+## What it does 
 
 A fast, responsive, accessible and user-friendly learning platform!
 
